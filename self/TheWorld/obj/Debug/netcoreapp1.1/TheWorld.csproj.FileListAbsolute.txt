@@ -1,0 +1,9 @@
+C:\GitHub\Angular_Training\self\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.deps.json
+C:\GitHub\Angular_Training\self\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.json
+C:\GitHub\Angular_Training\self\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.runtimeconfig.dev.json
+C:\GitHub\Angular_Training\self\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.dll
+C:\GitHub\Angular_Training\self\TheWorld\bin\Debug\netcoreapp1.1\TheWorld.pdb
+C:\GitHub\Angular_Training\self\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.csprojResolveAssemblyReference.cache
+C:\GitHub\Angular_Training\self\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.AssemblyInfo.cs
+C:\GitHub\Angular_Training\self\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.dll
+C:\GitHub\Angular_Training\self\TheWorld\obj\Debug\netcoreapp1.1\TheWorld.pdb
